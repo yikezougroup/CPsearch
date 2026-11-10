@@ -106,5 +106,7 @@ The implementation is in `src/evidence_control`; examples and lightweight tests
 are in `examples` and `tests`. The Python import namespace is `evidence_control`
 and the package name is `evidence-control-toolkit`.
 
-Software licensing and example-data redistribution remain subject to approval by
-Aiting Wang. See `LICENSE` and `CITATION.cff` for the current drafts.
+## License
+
+CPsearch is released under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright (c) 2026 Aiting Wang.
